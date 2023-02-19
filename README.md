@@ -1,2 +1,2 @@
 # TO-DO-LIST-PROJECT
-To-Do-List javascript project
+ Simple TO DO List with html and css and javascript.
